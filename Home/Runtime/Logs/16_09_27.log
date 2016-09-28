@@ -1,0 +1,686 @@
+[ 2016-09-27T21:30:10+08:00 ] ::1 /leave/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.014686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027720s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] ucfirst() expects parameter 1 to be string, array given D:\wamp\www\leave\ThinkPHP\Library\Think\Storage.class.php 第 36 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007533s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.011018s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011621s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.010714s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011683s ]
+
+[ 2016-09-27T21:30:39+08:00 ] ::1 /leave/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003499s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] ucfirst() expects parameter 1 to be string, array given D:\wamp\www\leave\ThinkPHP\Library\Think\Storage.class.php 第 36 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.001695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001638s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.004078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004636s ]
+
+[ 2016-09-27T21:31:27+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006989s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000776s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.110404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110998s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001291s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001855s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002176s ]
+
+[ 2016-09-27T21:31:58+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003204s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000769s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.321216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.322510s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.041972s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.042541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002211s ]
+
+[ 2016-09-27T21:32:28+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003682s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000204s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000762s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.025193s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001969s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002375s ]
+
+[ 2016-09-27T21:32:36+08:00 ] ::1 /leave/index.php/Home/Zhi/zhi
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003192s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000762s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.027700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028292s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001715s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003876s ]
+
+[ 2016-09-27T21:32:41+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005505s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000763s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.024195s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001938s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002598s ]
+
+[ 2016-09-27T21:32:44+08:00 ] ::1 /leave/index.php/Home/Add/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004868s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000290s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001812s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.039474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040263s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003549s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004344s ]
+
+[ 2016-09-27T21:32:53+08:00 ] ::1 /leave/index.php/Home/First/first
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005318s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\leave\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.037657s ]
+SQL: SELECT * FROM `tp_user`  [ RunTime:0.001145s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000793s ]
+NOTIC: [8] Undefined variable: vo D:\wamp\www\leave\Home\Runtime\Cache\Home\571286827efde960732fb31c6c31f606.php 第 26 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\leave\Home\Runtime\Cache\Home\571286827efde960732fb31c6c31f606.php 第 27 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.039445s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001672s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002138s ]
+
+[ 2016-09-27T21:33:12+08:00 ] ::1 /leave/index.php/Home/Voteote
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004929s ]
+ERR: 无法加载控制器:Voteote
+
+[ 2016-09-27T21:33:20+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003323s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000797s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001367s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.023824s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024426s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001144s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001691s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002235s ]
+
+[ 2016-09-27T21:34:27+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003661s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000771s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.022778s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023379s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001911s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002381s ]
+
+[ 2016-09-27T21:34:52+08:00 ] ::1 /leave/index.php/Home/First/first
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004141s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\leave\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.017377s ]
+SQL: SELECT * FROM `tp_user`  [ RunTime:0.000983s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000222s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000805s ]
+NOTIC: [8] Undefined variable: vo D:\wamp\www\leave\Home\Runtime\Cache\Home\571286827efde960732fb31c6c31f606.php 第 26 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\leave\Home\Runtime\Cache\Home\571286827efde960732fb31c6c31f606.php 第 27 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.039350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039909s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001397s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001952s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002389s ]
+
+[ 2016-09-27T21:36:06+08:00 ] ::1 /leave/index.php/Home/First/first
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003243s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\leave\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.017213s ]
+SQL: SELECT * FROM `tp_user`  [ RunTime:0.000941s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000813s ]
+NOTIC: [8] Undefined variable: vo D:\wamp\www\leave\Home\Runtime\Cache\Home\571286827efde960732fb31c6c31f606.php 第 26 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\leave\Home\Runtime\Cache\Home\571286827efde960732fb31c6c31f606.php 第 27 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.032398s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032955s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001688s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002153s ]
+
+[ 2016-09-27T21:36:08+08:00 ] ::1 /leave/index.php/Home/Enter.enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004168s ]
+ERR: 无法加载控制器:Enter.enter
+
+[ 2016-09-27T21:36:25+08:00 ] ::1 /leave/index.php/Home/First/first
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004023s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\leave\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.018484s ]
+SQL: SELECT * FROM `tp_user`  [ RunTime:0.001148s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000249s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001303s ]
+NOTIC: [8] Undefined variable: vo D:\wamp\www\leave\Home\Runtime\Cache\Home\571286827efde960732fb31c6c31f606.php 第 26 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\leave\Home\Runtime\Cache\Home\571286827efde960732fb31c6c31f606.php 第 27 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.036085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036637s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001950s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003722s ]
+
+[ 2016-09-27T21:36:27+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005899s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000767s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.022844s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023512s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001965s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002517s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002164s ]
+
+[ 2016-09-27T21:38:13+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005657s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000300s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001128s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.031899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032752s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001566s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003865s ]
+
+[ 2016-09-27T21:38:16+08:00 ] ::1 /leave/index.php/Home/First/first
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003441s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\leave\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.017667s ]
+SQL: SELECT * FROM `tp_user`  [ RunTime:0.001052s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000216s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000811s ]
+NOTIC: [8] Undefined variable: vo D:\wamp\www\leave\Home\Runtime\Cache\Home\571286827efde960732fb31c6c31f606.php 第 26 行.
+NOTIC: [8] Undefined variable: vo D:\wamp\www\leave\Home\Runtime\Cache\Home\571286827efde960732fb31c6c31f606.php 第 27 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.038739s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039294s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001826s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002203s ]
+
+[ 2016-09-27T21:48:59+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004554s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-09-27T21:49:00+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003312s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-09-27T21:49:52+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004698s ]
+
+[ 2016-09-27T21:50:16+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004807s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000321s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001188s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.043801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046925s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001754s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002684s ]
+
+[ 2016-09-27T21:50:19+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003552s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000772s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.024338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024927s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002160s ]
+
+[ 2016-09-27T21:55:58+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004542s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000926s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.031032s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032412s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002737s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003473s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003297s ]
+
+[ 2016-09-27T21:56:01+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005984s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000210s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000795s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.030677s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031289s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.004390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.003252s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003820s ]
+
+[ 2016-09-27T21:56:05+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004348s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000760s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002422s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.029612s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001954s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003009s ]
+
+[ 2016-09-27T21:56:07+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006952s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001504s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002122s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.028562s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029169s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001952s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003503s ]
+
+[ 2016-09-27T21:56:45+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005842s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000787s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.033345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033951s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002854s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003100s ]
+
+[ 2016-09-27T21:57:57+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004221s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000211s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000786s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.034192s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034805s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002010s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003008s ]
+
+[ 2016-09-27T21:57:59+08:00 ] ::1 /leave/index.php/Home/Login/doLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006250s ]
+NOTIC: [8] Undefined index: username D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 14 行.
+NOTIC: [8] Undefined index: password D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 15 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\leave\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tp_user1` [ RunTime:0.020243s ]
+NOTIC: [8] Undefined variable: name D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 18 行.
+SQL: SELECT `id` FROM `tp_user1` WHERE ( `name` = null ) AND ( `password` = null ) LIMIT 1   [ RunTime:0.001008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001628s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.041448s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.004052s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004631s ]
+
+[ 2016-09-27T21:58:20+08:00 ] ::1 /leave/index.php/Home/Login/doLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005087s ]
+NOTIC: [8] Undefined index: username D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 14 行.
+NOTIC: [8] Undefined index: password D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 15 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\leave\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tp_user1` [ RunTime:0.019797s ]
+NOTIC: [8] Undefined variable: name D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 18 行.
+SQL: SELECT `id` FROM `tp_user1` WHERE ( `name` = null ) AND ( `password` = null ) LIMIT 1   [ RunTime:0.001481s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000213s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000845s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.025691s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026289s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003099s ]
+
+[ 2016-09-27T21:58:27+08:00 ] ::1 /leave/index.php/Home/Login/doLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003817s ]
+NOTIC: [8] Undefined index: username D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 14 行.
+NOTIC: [8] Undefined index: password D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 15 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\leave\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tp_user1` [ RunTime:0.018154s ]
+NOTIC: [8] Undefined variable: name D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 18 行.
+SQL: SELECT `id` FROM `tp_user1` WHERE ( `name` = null ) AND ( `password` = null ) LIMIT 1   [ RunTime:0.000924s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000821s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.025231s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025827s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001977s ]
+
+[ 2016-09-27T21:58:47+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004543s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000789s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.028700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029323s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002801s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003023s ]
+
+[ 2016-09-27T22:06:08+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007368s ]
+
+[ 2016-09-27T22:06:09+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006181s ]
+
+[ 2016-09-27T22:06:17+08:00 ] ::1 /leave/index.php/Home/Login/doLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005121s ]
+
+[ 2016-09-27T22:06:37+08:00 ] ::1 /leave/index.php/Home/Login/doLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006774s ]
+
+[ 2016-09-27T22:07:10+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006223s ]
+
+[ 2016-09-27T22:07:14+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004862s ]
+
+[ 2016-09-27T22:07:15+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005995s ]
+
+[ 2016-09-27T22:07:17+08:00 ] ::1 /leave/index.php/Home/Enter/enter
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004497s ]
+
+[ 2016-09-27T22:07:18+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004441s ]
+
+[ 2016-09-27T22:07:23+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004211s ]
+
+[ 2016-09-27T22:07:44+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004328s ]
+
+[ 2016-09-27T22:07:57+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004286s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000215s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000786s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.026504s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003823s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.007400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2016-09-27T22:08:12+08:00 ] ::1 /leave/index.php/Home/First/first
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.005350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008468s ]
+
+[ 2016-09-27T22:10:30+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006288s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000253s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003924s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.034849s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035559s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001974s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.005562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006160s ]
+
+[ 2016-09-27T22:10:36+08:00 ] ::1 /leave/index.php/Home/Login/doLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006879s ]
+NOTIC: [8] Undefined index: username D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 14 行.
+NOTIC: [8] Undefined index: password D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 15 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\leave\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tp_user1` [ RunTime:0.018132s ]
+NOTIC: [8] Undefined variable: name D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 18 行.
+SQL: SELECT `id` FROM `tp_user1` WHERE ( `name` = null ) AND ( `password` = null ) LIMIT 1   [ RunTime:0.001025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000231s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000997s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.025499s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026088s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002345s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003782s ]
+
+[ 2016-09-27T22:10:45+08:00 ] ::1 /leave/index.php/Home/Login/doLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004753s ]
+NOTIC: [8] Undefined index: username D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 14 行.
+NOTIC: [8] Undefined index: password D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 15 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\leave\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tp_user1` [ RunTime:0.018494s ]
+NOTIC: [8] Undefined variable: name D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 18 行.
+SQL: SELECT `id` FROM `tp_user1` WHERE ( `name` = null ) AND ( `password` = null ) LIMIT 1   [ RunTime:0.001020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000207s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000809s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.026883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027470s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002004s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002566s ]
+

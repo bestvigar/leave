@@ -1,0 +1,57 @@
+/*将所有带有边界或填充的属性清零*/
+*{
+	margin:0px;
+	padding:0px;
+	background-color:#9BCD9B;
+}
+/*在body体中设置整个文本的字号和颜色*/
+body{
+	font-family:宋体;
+	font-size:6px;
+	color:black;
+	background-color:#9BCD9B;
+}
+
+a{
+	text-decoration:none;
+}
+ul{
+	list-style-type:none;
+}
+.clr{
+	clear:both;
+}
+#wrapper{
+	width:100%;
+	margin:0px auto;
+}
+#head{
+	width:100%;
+	height:140px;
+	background-image: url(1.jpg);
+
+}
+
+#head #nav{
+	width:100%;
+	height:30px;
+	float:left;
+	margin-top:140px;
+	margin-left:60px;
+	background-color:#2E8B57;
+}
+#left{
+	width:60px;
+	height:30px;
+	background-color:#2E8B57;
+}
+#head #nav ul li a{
+	float:left;
+	font-size:25px;
+	color:black;
+	width:200px;
+	background-color:#2E8B57;
+}
+#nav ul li a:hover{
+	text-decoration:underline;
+}

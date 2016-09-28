@@ -1,0 +1,57 @@
+[ 2016-09-28T17:22:04+08:00 ] ::1 /leave/index.php/Home/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.025349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.045363s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000782s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.140099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.140708s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.010251s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.012542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013142s ]
+
+[ 2016-09-28T17:22:11+08:00 ] ::1 /leave/index.php/Home/Login/doLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.004369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008929s ]
+NOTIC: [8] Undefined index: username D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 14 行.
+NOTIC: [8] Undefined index: password D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 15 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\leave\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tp_user1` [ RunTime:0.046131s ]
+NOTIC: [8] Undefined variable: name D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 18 行.
+SQL: SELECT `id` FROM `tp_user1` WHERE ( `name` = null ) AND ( `password` = null ) LIMIT 1   [ RunTime:0.005045s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000845s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.053068s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.003894s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004536s ]
+
+[ 2016-09-28T17:28:22+08:00 ] ::1 /leave/index.php/Home/Login/doLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005634s ]
+NOTIC: [8] Undefined index: username D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 14 行.
+NOTIC: [8] Undefined index: password D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 15 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\leave\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tp_user1` [ RunTime:0.020707s ]
+NOTIC: [8] Undefined variable: name D:\wamp\www\leave\Home\Home\Controller\LoginController.class.php 第 18 行.
+SQL: SELECT `id` FROM `tp_user1` WHERE ( `name` = null ) AND ( `password` = null ) LIMIT 1   [ RunTime:0.001043s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000209s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000815s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.034087s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034683s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.002262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002901s ]
+

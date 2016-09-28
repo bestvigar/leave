@@ -1,0 +1,21 @@
+form{
+			width:100%;
+			border:0px;
+			border-collapse:collapse;
+			margin-left: 20px;
+}
+body{
+	background-color:#9BCD9B;
+}
+#head1{
+	width:100%;
+	height:140px;
+	background-image: url(1.jpg);
+}
+#head{
+	width:100%;
+	height:50px;
+}
+#main1{
+	background-color:#9BCD9B;
+}
